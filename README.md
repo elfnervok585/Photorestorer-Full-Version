@@ -238,3 +238,6 @@ This repository serves as the official landing page for PhotoRestorer. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PhotoRestorer today!**
+
+---
+**Last updated:** 2026-09-09 23:40:10 UTC
