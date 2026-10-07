@@ -240,4 +240,4 @@ This repository serves as the official landing page for PhotoRestorer. The softw
 **Get the most recent version of PhotoRestorer today!**
 
 ---
-**Last updated:** 2026-10-06 21:27:41 UTC
+**Last updated:** 2026-10-07 01:08:06 UTC
